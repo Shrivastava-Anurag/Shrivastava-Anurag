@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**Shrivastava-Anurag/Shrivastava-Anurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anurag, a passionate developer from India. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+
+- **Languages:** JavaScript (ES6+)
+- **Web Technologies:** HTML5, CSS3, React.js, Vue.js
+- **State Management:** Redux, Vuex
+- **Build Tools:** Webpack, Babel
+- **Testing:** Jest, Enzyme
+
+### Backend
+
+- **Languages:** Node.js, Python
+- **Web Frameworks:** Express.js, Django
+- **Databases:** MongoDB, PostgreSQL
+- **Authentication & Authorization:** JWT, OAuth
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/shriv_anurag
+
+
+
