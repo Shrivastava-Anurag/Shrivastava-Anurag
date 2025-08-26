@@ -93,10 +93,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrivastava-Anurag&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true&bg_color=d5a65a&line=905133&color=905133&point=905133&area_color=905133&title_color=905133" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Shrivastava-Anurag&theme=kimbie_dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
 
